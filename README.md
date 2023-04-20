@@ -20,5 +20,8 @@ Para poder ejecutar la aplicación de manera local, es necesario tener instalado
 
 5. En la ventana emergente debe escribir en el recuadro *Goals* ```mvn clean install -X``` y aplicamos y damos Run
 
+![image](https://user-images.githubusercontent.com/99621490/233408244-0032efb1-596d-464c-9a68-688ef18da914.png)
+
+
 6. Y por ultimo hacemos click derecho en pom.xml o en la carpeta WorkshopFramework, y seleccionamos la opcion *Maven/Update Project* o simplemente Alt+F5 y se les instalará las dependencias.
 
